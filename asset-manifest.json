@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/funky-cats/static/css/main.6e14de4f.css",
+    "main.js": "/funky-cats/static/js/main.6204eef5.js",
+    "static/js/787.4865a397.chunk.js": "/funky-cats/static/js/787.4865a397.chunk.js",
+    "index.html": "/funky-cats/index.html",
+    "main.6e14de4f.css.map": "/funky-cats/static/css/main.6e14de4f.css.map",
+    "main.6204eef5.js.map": "/funky-cats/static/js/main.6204eef5.js.map",
+    "787.4865a397.chunk.js.map": "/funky-cats/static/js/787.4865a397.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e14de4f.css",
+    "static/js/main.6204eef5.js"
+  ]
+}
