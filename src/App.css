@@ -11,6 +11,8 @@ body {
     rgb(221, 182, 74) 0%,
     rgb(194, 124, 19) 100%
   );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   text-align: center;
 }
 
